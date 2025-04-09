@@ -1,0 +1,142 @@
+NOTE: PROCEDURE PRINTTO used (Total process time):
+      real time           0.01 seconds
+      cpu time            0.00 seconds
+      
+
+1334  
+1335  PROC IMPORT OUT= WORK.SALES03
+1336              DATAFILE= "C:\Users\karmo\OneDrive\Desktop\SAS\dev\sales\data\raw\Sales03.tsv"
+1337              DBMS=DLM REPLACE;
+1338       DELIMITER='09'x;
+1339       GETNAMES=YES;
+1340       DATAROW=2;
+1341       GUESSINGROWS=1000;
+1342  RUN;
+
+1343   /**********************************************************************
+1344   *   PRODUCT:   SAS
+1345   *   VERSION:   9.4
+1346   *   CREATOR:   External File Interface
+1347   *   DATE:      16SEP15
+1348   *   DESC:      Generated SAS Datastep Code
+1349   *   TEMPLATE SOURCE:  (None Specified.)
+1350   ***********************************************************************/
+1351      data WORK.SALES03    ;
+1352      %let _EFIERR_ = 0; /* set the ERROR detection macro variable */
+1353      infile 'C:\Users\karmo\OneDrive\Desktop\SAS\dev\sales\data\raw\Sales03.tsv' delimiter='09'x
+1353! MISSOVER DSD lrecl=32767 firstobs=2 ;
+1354         informat Order_ID best32. ;
+1355         informat Order_Date mmddyy10. ;
+1356         informat Customer_ID best32. ;
+1357         informat Customer_Name $10. ;
+1358         informat Address $15. ;
+1359         informat City $14. ;
+1360         informat State $2. ;
+1361         informat ZIP_Postal_Code best32. ;
+1362         informat Country_Region $3. ;
+1363         informat Salesperson $16. ;
+1364         informat Region $5. ;
+1365         informat Shipped_Date mmddyy10. ;
+1366         informat Shipper_Name $18. ;
+1367         informat Ship_Name $22. ;
+1368         informat Ship_Address $15. ;
+1369         informat Ship_City $14. ;
+1370         informat Ship_State $2. ;
+1371         informat Ship_ZIP_Postal_Code best32. ;
+1372         informat Ship_Country_Region $3. ;
+1373         informat Payment_Type $11. ;
+1374         informat Product_Name $22. ;
+1375         informat Category $19. ;
+1376         informat Unit_Price comma32. ;
+1377         informat Quantity best32. ;
+1378         informat Revenue $11. ;
+1379         informat Shipping_Fee comma32. ;
+1380         format Order_ID best12. ;
+1381         format Order_Date mmddyy10. ;
+1382         format Customer_ID best12. ;
+1383         format Customer_Name $10. ;
+1384         format Address $15. ;
+1385         format City $14. ;
+1386         format State $2. ;
+1387         format ZIP_Postal_Code best12. ;
+1388         format Country_Region $3. ;
+1389         format Salesperson $16. ;
+1390         format Region $5. ;
+1391         format Shipped_Date mmddyy10. ;
+1392         format Shipper_Name $18. ;
+1393         format Ship_Name $22. ;
+1394         format Ship_Address $15. ;
+1395         format Ship_City $14. ;
+1396         format Ship_State $2. ;
+1397         format Ship_ZIP_Postal_Code best12. ;
+1398         format Ship_Country_Region $3. ;
+1399         format Payment_Type $11. ;
+1400         format Product_Name $22. ;
+1401         format Category $19. ;
+1402         format Unit_Price comma12. ;
+1403         format Quantity best12. ;
+1404         format Revenue $11. ;
+1405         format Shipping_Fee comma12. ;
+1406      input
+1407                  Order_ID
+1408                  Order_Date
+1409                  Customer_ID
+1410                  Customer_Name $
+1411                  Address $
+1412                  City $
+1413                  State $
+1414                  ZIP_Postal_Code
+1415                  Country_Region $
+1416                  Salesperson $
+1417                  Region $
+1418                  Shipped_Date
+1419                  Shipper_Name $
+1420                  Ship_Name $
+1421                  Ship_Address $
+1422                  Ship_City $
+1423                  Ship_State $
+1424                  Ship_ZIP_Postal_Code
+1425                  Ship_Country_Region $
+1426                  Payment_Type $
+1427                  Product_Name $
+1428                  Category $
+1429                  Unit_Price
+1430                  Quantity
+1431                  Revenue $
+1432                  Shipping_Fee
+1433      ;
+1434      if _ERROR_ then call symputx('_EFIERR_',1);  /* set ERROR detection macro variable */
+1435      run;
+
+NOTE: The infile 'C:\Users\karmo\OneDrive\Desktop\SAS\dev\sales\data\raw\Sales03.tsv' is:
+      Filename=C:\Users\karmo\OneDrive\Desktop\SAS\dev\sales\data\raw\Sales03.tsv,
+      RECFM=V,LRECL=32767,File Size (bytes)=14278,
+      Last Modified=07Apr2025:15:32:04,
+      Create Time=07Apr2025:17:07:25
+
+NOTE: 65 records were read from the infile 
+      'C:\Users\karmo\OneDrive\Desktop\SAS\dev\sales\data\raw\Sales03.tsv'.
+      The minimum record length was 149.
+      The maximum record length was 247.
+NOTE: The data set WORK.SALES03 has 65 observations and 26 variables.
+NOTE: DATA statement used (Total process time):
+      real time           0.01 seconds
+      cpu time            0.00 seconds
+      
+
+65 rows created in WORK.SALES03 from 
+C:\Users\karmo\OneDrive\Desktop\SAS\dev\sales\data\raw\Sales03.tsv.
+  
+  
+  
+NOTE: WORK.SALES03 data set was successfully created.
+NOTE: The data set WORK.SALES03 has 65 observations and 26 variables.
+NOTE: PROCEDURE IMPORT used (Total process time):
+      real time           0.09 seconds
+      cpu time            0.09 seconds
+      
+
+1436  
+1437  PROC PRINTTO;
+1438  RUN;
+

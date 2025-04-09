@@ -1,0 +1,87 @@
+NOTE: PROCEDURE PRINTTO used (Total process time):
+      real time           0.00 seconds
+      cpu time            0.00 seconds
+      
+
+624  
+625  PROC IMPORT OUT= WORK.Ther06Q1
+626              DATAFILE= "C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\THER06Q1.TXT"
+627              DBMS=DLM REPLACE;
+628       DELIMITER='24'x;
+629       GETNAMES=YES;
+630       DATAROW=2;
+631       GUESSINGROWS=1000;
+632  RUN;
+
+Number of names found is less than number of variables found. 
+Number of names found is less than number of variables found. 
+633   /**********************************************************************
+634   *   PRODUCT:   SAS
+635   *   VERSION:   9.4
+636   *   CREATOR:   External File Interface
+637   *   DATE:      16SEP15
+638   *   DESC:      Generated SAS Datastep Code
+639   *   TEMPLATE SOURCE:  (None Specified.)
+640   ***********************************************************************/
+641      data WORK.THER06Q1    ;
+642      %let _EFIERR_ = 0; /* set the ERROR detection macro variable */
+643      infile 'C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\THER06Q1.TXT' delimiter =
+643!  '$' MISSOVER DSD lrecl=32767 firstobs=2 ;
+644         informat ISR best32. ;
+645         informat DRUG_SEQ best32. ;
+646         informat START_DT best32. ;
+647         informat END_DT best32. ;
+648         informat DUR best32. ;
+649         informat DUR_COD $3. ;
+650         informat VAR7 $1. ;
+651         format ISR best12. ;
+652         format DRUG_SEQ best12. ;
+653         format START_DT best12. ;
+654         format END_DT best12. ;
+655         format DUR best12. ;
+656         format DUR_COD $3. ;
+657         format VAR7 $1. ;
+658      input
+659                  ISR
+660                  DRUG_SEQ
+661                  START_DT
+662                  END_DT
+663                  DUR
+664                  DUR_COD $
+665                  VAR7 $
+666      ;
+667      if _ERROR_ then call symputx('_EFIERR_',1);  /* set ERROR detection macro variable */
+668      run;
+
+NOTE: The infile 'C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\THER06Q1.TXT' is:
+      Filename=C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\THER06Q1.TXT,
+      RECFM=V,LRECL=32767,File Size (bytes)=4964951,
+      Last Modified=07Apr2025:15:32:03,
+      Create Time=07Apr2025:15:38:05
+
+NOTE: 129173 records were read from the infile 
+      'C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\THER06Q1.TXT'.
+      The minimum record length was 24.
+      The maximum record length was 47.
+NOTE: The data set WORK.THER06Q1 has 129173 observations and 7 variables.
+NOTE: DATA statement used (Total process time):
+      real time           0.07 seconds
+      cpu time            0.06 seconds
+      
+
+129173 rows created in WORK.THER06Q1 from 
+C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\THER06Q1.TXT.
+  
+  
+  
+NOTE: WORK.THER06Q1 data set was successfully created.
+NOTE: The data set WORK.THER06Q1 has 129173 observations and 7 variables.
+NOTE: PROCEDURE IMPORT used (Total process time):
+      real time           0.18 seconds
+      cpu time            0.12 seconds
+      
+
+669  
+670  PROC PRINTTO;
+671  RUN;
+

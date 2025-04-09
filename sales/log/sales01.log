@@ -1,0 +1,29 @@
+NOTE: PROCEDURE PRINTTO used (Total process time):
+      real time           0.00 seconds
+      cpu time            0.00 seconds
+      
+
+880  
+881  PROC IMPORT OUT= WORK.SALES01
+882              DATAFILE= "C:\Users\karmo\OneDrive\Desktop\SAS\dev\sales\dat
+883  a\raw\Sales01.xls"
+884              DBMS=EXCEL REPLACE;
+885       RANGE="Sales01$";
+886       GETNAMES=YES;
+887       MIXED=NO;
+888       SCANTEXT=YES;
+889       USEDATE=YES;
+890       SCANTIME=YES;
+891  RUN;
+
+NOTE: WORK.SALES01 data set was successfully created.
+NOTE: The data set WORK.SALES01 has 65 observations and 26 variables.
+NOTE: PROCEDURE IMPORT used (Total process time):
+      real time           1.87 seconds
+      cpu time            0.70 seconds
+      
+
+892  
+893  PROC PRINTTO;
+894  RUN;
+

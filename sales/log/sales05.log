@@ -1,0 +1,27 @@
+NOTE: PROCEDURE PRINTTO used (Total process time):
+      real time           0.01 seconds
+      cpu time            0.00 seconds
+      
+
+2061  
+2062  PROC IMPORT OUT= WORK.SALES05
+2063              DATAFILE= "C:\Users\karmo\OneDrive\Desktop\SAS\dev\sales\data\raw\Sales05.prn"
+2064              DBMS=DLM REPLACE;
+2065       DELIMITER='09'x;
+2066       GETNAMES=YES;
+2067       DATAROW=2;
+2068       GUESSINGROWS=1000;
+2069  RUN;
+
+ERROR: Import cancelled. The dataset WORK.SALES05 is being used and cannot be replaced.
+NOTE: The SAS System stopped processing this step because of errors.
+NOTE: PROCEDURE IMPORT used (Total process time):
+      real time           0.01 seconds
+      cpu time            0.00 seconds
+      
+2070  
+
+
+2071  PROC PRINTTO;
+2072  RUN;
+

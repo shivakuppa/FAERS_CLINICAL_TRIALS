@@ -1,0 +1,106 @@
+NOTE: PROCEDURE PRINTTO used (Total process time):
+      real time           0.01 seconds
+      cpu time            0.00 seconds
+      
+
+275  
+276  
+277  PROC IMPORT OUT= WORK.Drug06Q1
+278              DATAFILE= "C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\DRUG06Q1.TXT"
+279              DBMS=DLM REPLACE;
+280       DELIMITER='24'x;
+281       GETNAMES=YES;
+282       DATAROW=2;
+283       GUESSINGROWS=1000;
+284  RUN;
+
+Name VAR13 is a duplicate.
+Problems were detected with provided names.  See LOG. 
+285   /**********************************************************************
+286   *   PRODUCT:   SAS
+287   *   VERSION:   9.4
+288   *   CREATOR:   External File Interface
+289   *   DATE:      16SEP15
+290   *   DESC:      Generated SAS Datastep Code
+291   *   TEMPLATE SOURCE:  (None Specified.)
+292   ***********************************************************************/
+293      data WORK.DRUG06Q1    ;
+294      %let _EFIERR_ = 0; /* set the ERROR detection macro variable */
+295      infile 'C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\DRUG06Q1.TXT' delimiter =
+295!  '$' MISSOVER DSD lrecl=32767 firstobs=2 ;
+296         informat ISR best32. ;
+297         informat DRUG_SEQ best32. ;
+298         informat ROLE_COD $2. ;
+299         informat DRUGNAME $70. ;
+300         informat VAL_VBM best32. ;
+301         informat ROUTE $24. ;
+302         informat DOSE_VBM $94. ;
+303         informat DECHAL $1. ;
+304         informat RECHAL $1. ;
+305         informat LOT_NUM $12. ;
+306         informat EXP_DT best32. ;
+307         informat NDA_NUM best32. ;
+308         informat VAR13 $1. ;
+309         format ISR best12. ;
+310         format DRUG_SEQ best12. ;
+311         format ROLE_COD $2. ;
+312         format DRUGNAME $70. ;
+313         format VAL_VBM best12. ;
+314         format ROUTE $24. ;
+315         format DOSE_VBM $94. ;
+316         format DECHAL $1. ;
+317         format RECHAL $1. ;
+318         format LOT_NUM $12. ;
+319         format EXP_DT best12. ;
+320         format NDA_NUM best12. ;
+321         format VAR13 $1. ;
+322      input
+323                  ISR
+324                  DRUG_SEQ
+325                  ROLE_COD $
+326                  DRUGNAME $
+327                  VAL_VBM
+328                  ROUTE $
+329                  DOSE_VBM $
+330                  DECHAL $
+331                  RECHAL $
+332                  LOT_NUM $
+333                  EXP_DT
+334                  NDA_NUM
+335                  VAR13 $
+336      ;
+337      if _ERROR_ then call symputx('_EFIERR_',1);  /* set ERROR detection macro variable */
+338      run;
+
+NOTE: The infile 'C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\DRUG06Q1.TXT' is:
+      Filename=C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\DRUG06Q1.TXT,
+      RECFM=V,LRECL=32767,File Size (bytes)=18139986,
+      Last Modified=07Apr2025:15:32:03,
+      Create Time=07Apr2025:15:38:05
+
+NOTE: 336519 records were read from the infile 
+      'C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\DRUG06Q1.TXT'.
+      The minimum record length was 32.
+      The maximum record length was 188.
+NOTE: The data set WORK.DRUG06Q1 has 336519 observations and 13 variables.
+NOTE: DATA statement used (Total process time):
+      real time           0.15 seconds
+      cpu time            0.15 seconds
+      
+
+336519 rows created in WORK.DRUG06Q1 from 
+C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\DRUG06Q1.TXT.
+  
+  
+  
+NOTE: WORK.DRUG06Q1 data set was successfully created.
+NOTE: The data set WORK.DRUG06Q1 has 336519 observations and 13 variables.
+NOTE: PROCEDURE IMPORT used (Total process time):
+      real time           0.34 seconds
+      cpu time            0.29 seconds
+      
+
+339  
+340  PROC PRINTTO;
+341  RUN;
+

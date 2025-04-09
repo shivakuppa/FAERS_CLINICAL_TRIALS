@@ -1,0 +1,75 @@
+NOTE: PROCEDURE PRINTTO used (Total process time):
+      real time           0.00 seconds
+      cpu time            0.00 seconds
+      
+
+571  
+572  PROC IMPORT OUT= WORK.Rpsr06Q1
+573              DATAFILE= "C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\RPSR06Q1.TXT"
+574              DBMS=DLM REPLACE;
+575       DELIMITER='24'x;
+576       GETNAMES=YES;
+577       DATAROW=2;
+578       GUESSINGROWS=1000;
+579  RUN;
+
+Number of names found is less than number of variables found. 
+Number of names found is less than number of variables found. 
+580   /**********************************************************************
+581   *   PRODUCT:   SAS
+582   *   VERSION:   9.4
+583   *   CREATOR:   External File Interface
+584   *   DATE:      16SEP15
+585   *   DESC:      Generated SAS Datastep Code
+586   *   TEMPLATE SOURCE:  (None Specified.)
+587   ***********************************************************************/
+588      data WORK.RPSR06Q1    ;
+589      %let _EFIERR_ = 0; /* set the ERROR detection macro variable */
+590      infile 'C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\RPSR06Q1.TXT' delimiter =
+590!  '$' MISSOVER DSD lrecl=32767 firstobs=2 ;
+591         informat ISR best32. ;
+592         informat RPSR_COD $3. ;
+593         informat VAR3 $1. ;
+594         format ISR best12. ;
+595         format RPSR_COD $3. ;
+596         format VAR3 $1. ;
+597      input
+598                  ISR
+599                  RPSR_COD $
+600                  VAR3 $
+601      ;
+602      if _ERROR_ then call symputx('_EFIERR_',1);  /* set ERROR detection macro variable */
+603      run;
+
+NOTE: The infile 'C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\RPSR06Q1.TXT' is:
+      Filename=C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\RPSR06Q1.TXT,
+      RECFM=V,LRECL=32767,File Size (bytes)=939385,
+      Last Modified=07Apr2025:15:32:03,
+      Create Time=07Apr2025:15:38:05
+
+NOTE: 68942 records were read from the infile 
+      'C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\RPSR06Q1.TXT'.
+      The minimum record length was 11.
+      The maximum record length was 12.
+NOTE: The data set WORK.RPSR06Q1 has 68942 observations and 3 variables.
+NOTE: DATA statement used (Total process time):
+      real time           0.00 seconds
+      cpu time            0.01 seconds
+      
+
+68942 rows created in WORK.RPSR06Q1 from 
+C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\RPSR06Q1.TXT.
+  
+  
+  
+NOTE: WORK.RPSR06Q1 data set was successfully created.
+NOTE: The data set WORK.RPSR06Q1 has 68942 observations and 3 variables.
+NOTE: PROCEDURE IMPORT used (Total process time):
+      real time           0.07 seconds
+      cpu time            0.07 seconds
+      
+
+604  
+605  PROC PRINTTO;
+606  RUN;
+

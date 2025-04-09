@@ -1,0 +1,23 @@
+NOTE: PROCEDURE PRINTTO used (Total process time):
+      real time           0.01 seconds
+      cpu time            0.00 seconds
+      
+
+2147  
+2148  PROC IMPORT OUT= WORK.SALES06
+2149              DATAFILE= "C:\Users\karmo\OneDrive\Desktop\SAS\dev\sales\data\raw\Sales08.xml"
+2150              DBMS=XML REPLACE;
+ERROR: DBMS type XML not valid for import.
+NOTE: The SAS System stopped processing this step because of errors.
+NOTE: PROCEDURE IMPORT used (Total process time):
+      real time           0.00 seconds
+      cpu time            0.00 seconds
+      
+2151              GETNAMES=YES;
+2152  RUN;
+2153  
+
+
+2154  PROC PRINTTO;
+2155  RUN;
+

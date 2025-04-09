@@ -1,0 +1,29 @@
+NOTE: PROCEDURE PRINTTO used (Total process time):
+      real time           0.01 seconds
+      cpu time            0.00 seconds
+      
+
+851  
+852  LIBNAME source = 'C:\Users\karmo\OneDrive\Desktop\SAS\dev\sales\data\raw';
+ERROR: Libref in LIBNAME statement must be followed either by quoted string or engine name or 
+       semicolon; "=" found.
+ERROR: Error in the LIBNAME statement.
+853  
+854  DATA work.sales;
+855      SET source.sales;
+ERROR: Libref SOURCE is not assigned.
+856  RUN;
+
+NOTE: The SAS System stopped processing this step because of errors.
+WARNING: The data set WORK.SALES may be incomplete.  When this step was stopped there were 0 
+         observations and 0 variables.
+WARNING: Data set WORK.SALES was not replaced because this step was stopped.
+NOTE: DATA statement used (Total process time):
+      real time           0.00 seconds
+      cpu time            0.00 seconds
+      
+
+857  
+858  PROC PRINTTO;
+859  RUN;
+

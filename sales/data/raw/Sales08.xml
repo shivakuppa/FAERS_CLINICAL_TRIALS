@@ -1,0 +1,1757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Sales08.xsd" generated="2017-02-18T09:23:39">
+<Sales01>
+<Order_x0020_ID>1368</Order_x0020_ID>
+<Order_x0020_Date>2014-12-27T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>27</Customer_x0020_ID>
+<Customer_x0020_Name>Company AA</Customer_x0020_Name>
+<Address>789 27th Street</Address>
+<City>Las Vegas</City>
+<State>NV</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Mariya Sergienko</Salesperson>
+<Region>West</Region>
+<Shipped_x0020_Date>2014-12-29T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company B</Shipper_x0020_Name>
+<Ship_x0020_Name>Karen Toh</Ship_x0020_Name>
+<Ship_x0020_Address>789 27th Street</Ship_x0020_Address>
+<Ship_x0020_City>Las Vegas</Ship_x0020_City>
+<Ship_x0020_State>NV</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Check</Payment_x0020_Type>
+<Product_x0020_Name>Beer</Product_x0020_Name>
+<Category>Beverages</Category>
+<Unit_x0020_Price>14</Unit_x0020_Price>
+<Quantity>19</Quantity>
+<Revenue>266</Revenue>
+<Shipping_x0020_Fee>25.802</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1369</Order_x0020_ID>
+<Order_x0020_Date>2014-12-27T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>27</Customer_x0020_ID>
+<Customer_x0020_Name>Company AA</Customer_x0020_Name>
+<Address>789 27th Street</Address>
+<City>Las Vegas</City>
+<State>NV</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Mariya Sergienko</Salesperson>
+<Region>West</Region>
+<Shipped_x0020_Date>2014-12-29T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company B</Shipper_x0020_Name>
+<Ship_x0020_Name>Karen Toh</Ship_x0020_Name>
+<Ship_x0020_Address>789 27th Street</Ship_x0020_Address>
+<Ship_x0020_City>Las Vegas</Ship_x0020_City>
+<Ship_x0020_State>NV</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Check</Payment_x0020_Type>
+<Product_x0020_Name>Dried Plums</Product_x0020_Name>
+<Category>Dried Fruit &amp; Nuts</Category>
+<Unit_x0020_Price>3.5</Unit_x0020_Price>
+<Quantity>60</Quantity>
+<Revenue>210</Revenue>
+<Shipping_x0020_Fee>20.16</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1370</Order_x0020_ID>
+<Order_x0020_Date>2014-12-04T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>4</Customer_x0020_ID>
+<Customer_x0020_Name>Company D</Customer_x0020_Name>
+<Address>123 4th Street</Address>
+<City>New York</City>
+<State>NY</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Andrew Cencini</Salesperson>
+<Region>East</Region>
+<Shipped_x0020_Date>2014-12-06T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company A</Shipper_x0020_Name>
+<Ship_x0020_Name>Christina Lee</Ship_x0020_Name>
+<Ship_x0020_Address>123 4th Street</Ship_x0020_Address>
+<Ship_x0020_City>New York</Ship_x0020_City>
+<Ship_x0020_State>NY</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Credit Card</Payment_x0020_Type>
+<Product_x0020_Name>Dried Pears</Product_x0020_Name>
+<Category>Dried Fruit &amp; Nuts</Category>
+<Unit_x0020_Price>30</Unit_x0020_Price>
+<Quantity>81</Quantity>
+<Revenue>2430</Revenue>
+<Shipping_x0020_Fee>255.15</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1371</Order_x0020_ID>
+<Order_x0020_Date>2014-12-04T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>4</Customer_x0020_ID>
+<Customer_x0020_Name>Company D</Customer_x0020_Name>
+<Address>123 4th Street</Address>
+<City>New York</City>
+<State>NY</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Andrew Cencini</Salesperson>
+<Region>East</Region>
+<Shipped_x0020_Date>2014-12-06T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company A</Shipper_x0020_Name>
+<Ship_x0020_Name>Christina Lee</Ship_x0020_Name>
+<Ship_x0020_Address>123 4th Street</Ship_x0020_Address>
+<Ship_x0020_City>New York</Ship_x0020_City>
+<Ship_x0020_State>NY</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Credit Card</Payment_x0020_Type>
+<Product_x0020_Name>Dried Apples</Product_x0020_Name>
+<Category>Dried Fruit &amp; Nuts</Category>
+<Unit_x0020_Price>53</Unit_x0020_Price>
+<Quantity>83</Quantity>
+<Revenue>4399</Revenue>
+<Shipping_x0020_Fee>461.895</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1372</Order_x0020_ID>
+<Order_x0020_Date>2014-12-04T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>4</Customer_x0020_ID>
+<Customer_x0020_Name>Company D</Customer_x0020_Name>
+<Address>123 4th Street</Address>
+<City>New York</City>
+<State>NY</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Andrew Cencini</Salesperson>
+<Region>East</Region>
+<Shipped_x0020_Date>2014-12-06T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company A</Shipper_x0020_Name>
+<Ship_x0020_Name>Christina Lee</Ship_x0020_Name>
+<Ship_x0020_Address>123 4th Street</Ship_x0020_Address>
+<Ship_x0020_City>New York</Ship_x0020_City>
+<Ship_x0020_State>NY</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Credit Card</Payment_x0020_Type>
+<Product_x0020_Name>Dried Plums</Product_x0020_Name>
+<Category>Dried Fruit &amp; Nuts</Category>
+<Unit_x0020_Price>3.5</Unit_x0020_Price>
+<Quantity>75</Quantity>
+<Revenue>262.5</Revenue>
+<Shipping_x0020_Fee>26.25</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1373</Order_x0020_ID>
+<Order_x0020_Date>2014-12-12T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>12</Customer_x0020_ID>
+<Customer_x0020_Name>Company L</Customer_x0020_Name>
+<Address>123 12th Street</Address>
+<City>Las Vegas</City>
+<State>NV</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Mariya Sergienko</Salesperson>
+<Region>West</Region>
+<Shipped_x0020_Date>2014-12-14T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company B</Shipper_x0020_Name>
+<Ship_x0020_Name>John Edwards</Ship_x0020_Name>
+<Ship_x0020_Address>123 12th Street</Ship_x0020_Address>
+<Ship_x0020_City>Las Vegas</Ship_x0020_City>
+<Ship_x0020_State>NV</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Credit Card</Payment_x0020_Type>
+<Product_x0020_Name>Chai</Product_x0020_Name>
+<Category>Beverages</Category>
+<Unit_x0020_Price>18</Unit_x0020_Price>
+<Quantity>97</Quantity>
+<Revenue>1746</Revenue>
+<Shipping_x0020_Fee>183.33</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1374</Order_x0020_ID>
+<Order_x0020_Date>2014-12-12T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>12</Customer_x0020_ID>
+<Customer_x0020_Name>Company L</Customer_x0020_Name>
+<Address>123 12th Street</Address>
+<City>Las Vegas</City>
+<State>NV</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Mariya Sergienko</Salesperson>
+<Region>West</Region>
+<Shipped_x0020_Date>2014-12-14T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company B</Shipper_x0020_Name>
+<Ship_x0020_Name>John Edwards</Ship_x0020_Name>
+<Ship_x0020_Address>123 12th Street</Ship_x0020_Address>
+<Ship_x0020_City>Las Vegas</Ship_x0020_City>
+<Ship_x0020_State>NV</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Credit Card</Payment_x0020_Type>
+<Product_x0020_Name>Coffee</Product_x0020_Name>
+<Category>Beverages</Category>
+<Unit_x0020_Price>46</Unit_x0020_Price>
+<Quantity>61</Quantity>
+<Revenue>2806</Revenue>
+<Shipping_x0020_Fee>291.824</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1375</Order_x0020_ID>
+<Order_x0020_Date>2014-12-08T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>8</Customer_x0020_ID>
+<Customer_x0020_Name>Company H</Customer_x0020_Name>
+<Address>123 8th Street</Address>
+<City>Portland</City>
+<State>OR</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Nancy Freehafer</Salesperson>
+<Region>North</Region>
+<Shipped_x0020_Date>2014-12-10T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company C</Shipper_x0020_Name>
+<Ship_x0020_Name>Elizabeth Andersen</Ship_x0020_Name>
+<Ship_x0020_Address>123 8th Street</Ship_x0020_Address>
+<Ship_x0020_City>Portland</Ship_x0020_City>
+<Ship_x0020_State>OR</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Credit Card</Payment_x0020_Type>
+<Product_x0020_Name>Chocolate Biscuits Mix</Product_x0020_Name>
+<Category>Baked Goods &amp; Mixes</Category>
+<Unit_x0020_Price>9.2</Unit_x0020_Price>
+<Quantity>28</Quantity>
+<Revenue>257.6</Revenue>
+<Shipping_x0020_Fee>24.472</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1376</Order_x0020_ID>
+<Order_x0020_Date>2014-12-04T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>4</Customer_x0020_ID>
+<Customer_x0020_Name>Company D</Customer_x0020_Name>
+<Address>123 4th Street</Address>
+<City>New York</City>
+<State>NY</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Andrew Cencini</Salesperson>
+<Region>East</Region>
+<Shipped_x0020_Date>2014-12-06T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company C</Shipper_x0020_Name>
+<Ship_x0020_Name>Christina Lee</Ship_x0020_Name>
+<Ship_x0020_Address>123 4th Street</Ship_x0020_Address>
+<Ship_x0020_City>New York</Ship_x0020_City>
+<Ship_x0020_State>NY</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Check</Payment_x0020_Type>
+<Product_x0020_Name>Chocolate Biscuits Mix</Product_x0020_Name>
+<Category>Baked Goods &amp; Mixes</Category>
+<Unit_x0020_Price>9.2</Unit_x0020_Price>
+<Quantity>97</Quantity>
+<Revenue>892.4</Revenue>
+<Shipping_x0020_Fee>93.702</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1377</Order_x0020_ID>
+<Order_x0020_Date>2014-12-29T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>29</Customer_x0020_ID>
+<Customer_x0020_Name>Company CC</Customer_x0020_Name>
+<Address>789 29th Street</Address>
+<City>Denver</City>
+<State>CO</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Jan Kotas</Salesperson>
+<Region>West</Region>
+<Shipped_x0020_Date>2014-12-31T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company B</Shipper_x0020_Name>
+<Ship_x0020_Name>Soo Jung Lee</Ship_x0020_Name>
+<Ship_x0020_Address>789 29th Street</Ship_x0020_Address>
+<Ship_x0020_City>Denver</Ship_x0020_City>
+<Ship_x0020_State>CO</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Check</Payment_x0020_Type>
+<Product_x0020_Name>Chocolate</Product_x0020_Name>
+<Category>Candy</Category>
+<Unit_x0020_Price>12.75</Unit_x0020_Price>
+<Quantity>23</Quantity>
+<Revenue>293.25</Revenue>
+<Shipping_x0020_Fee>29.325</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1378</Order_x0020_ID>
+<Order_x0020_Date>2014-12-03T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>3</Customer_x0020_ID>
+<Customer_x0020_Name>Company C</Customer_x0020_Name>
+<Address>123 3rd Street</Address>
+<City>Los Angelas</City>
+<State>CA</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Mariya Sergienko</Salesperson>
+<Region>West</Region>
+<Shipped_x0020_Date>2014-12-05T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company B</Shipper_x0020_Name>
+<Ship_x0020_Name>Thomas Axerr</Ship_x0020_Name>
+<Ship_x0020_Address>123 3rd Street</Ship_x0020_Address>
+<Ship_x0020_City>Los Angelas</Ship_x0020_City>
+<Ship_x0020_State>CA</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Cash</Payment_x0020_Type>
+<Product_x0020_Name>Clam Chowder</Product_x0020_Name>
+<Category>Soups</Category>
+<Unit_x0020_Price>9.65</Unit_x0020_Price>
+<Quantity>89</Quantity>
+<Revenue>858.85</Revenue>
+<Shipping_x0020_Fee>81.5907</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1379</Order_x0020_ID>
+<Order_x0020_Date>2014-12-06T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>6</Customer_x0020_ID>
+<Customer_x0020_Name>Company F</Customer_x0020_Name>
+<Address>123 6th Street</Address>
+<City>Milwaukee</City>
+<State>WI</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Michael Neipper</Salesperson>
+<Region>North</Region>
+<Shipped_x0020_Date>2014-12-08T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company B</Shipper_x0020_Name>
+<Ship_x0020_Name>Francisco Pérez-Olaeta</Ship_x0020_Name>
+<Ship_x0020_Address>123 6th Street</Ship_x0020_Address>
+<Ship_x0020_City>Milwaukee</Ship_x0020_City>
+<Ship_x0020_State>WI</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Credit Card</Payment_x0020_Type>
+<Product_x0020_Name>Curry Sauce</Product_x0020_Name>
+<Category>Sauces</Category>
+<Unit_x0020_Price>40</Unit_x0020_Price>
+<Quantity>25</Quantity>
+<Revenue>1000</Revenue>
+<Shipping_x0020_Fee>96</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1380</Order_x0020_ID>
+<Order_x0020_Date>2014-12-28T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>28</Customer_x0020_ID>
+<Customer_x0020_Name>Company BB</Customer_x0020_Name>
+<Address>789 28th Street</Address>
+<City>Memphis</City>
+<State>TN</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Anne Larsen</Salesperson>
+<Region>South</Region>
+<Shipped_x0020_Date>2014-12-30T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company C</Shipper_x0020_Name>
+<Ship_x0020_Name>Amritansh Raghav</Ship_x0020_Name>
+<Ship_x0020_Address>789 28th Street</Ship_x0020_Address>
+<Ship_x0020_City>Memphis</Ship_x0020_City>
+<Ship_x0020_State>TN</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Check</Payment_x0020_Type>
+<Product_x0020_Name>Coffee</Product_x0020_Name>
+<Category>Beverages</Category>
+<Unit_x0020_Price>46</Unit_x0020_Price>
+<Quantity>19</Quantity>
+<Revenue>874</Revenue>
+<Shipping_x0020_Fee>89.148</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1381</Order_x0020_ID>
+<Order_x0020_Date>2014-12-08T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>8</Customer_x0020_ID>
+<Customer_x0020_Name>Company H</Customer_x0020_Name>
+<Address>123 8th Street</Address>
+<City>Portland</City>
+<State>OR</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Nancy Freehafer</Salesperson>
+<Region>North</Region>
+<Shipped_x0020_Date>2014-12-10T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company C</Shipper_x0020_Name>
+<Ship_x0020_Name>Elizabeth Andersen</Ship_x0020_Name>
+<Ship_x0020_Address>123 8th Street</Ship_x0020_Address>
+<Ship_x0020_City>Portland</Ship_x0020_City>
+<Ship_x0020_State>OR</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Check</Payment_x0020_Type>
+<Product_x0020_Name>Chocolate</Product_x0020_Name>
+<Category>Candy</Category>
+<Unit_x0020_Price>12.75</Unit_x0020_Price>
+<Quantity>36</Quantity>
+<Revenue>459</Revenue>
+<Shipping_x0020_Fee>45.441</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1382</Order_x0020_ID>
+<Order_x0020_Date>2014-12-10T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>10</Customer_x0020_ID>
+<Customer_x0020_Name>Company J</Customer_x0020_Name>
+<Address>123 10th Street</Address>
+<City>Chicago</City>
+<State>IL</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Laura Giussani</Salesperson>
+<Region>East</Region>
+<Shipped_x0020_Date>2014-12-12T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company B</Shipper_x0020_Name>
+<Ship_x0020_Name>Roland Wacker</Ship_x0020_Name>
+<Ship_x0020_Address>123 10th Street</Ship_x0020_Address>
+<Ship_x0020_City>Chicago</Ship_x0020_City>
+<Ship_x0020_State>IL</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Credit Card</Payment_x0020_Type>
+<Product_x0020_Name>Green Tea</Product_x0020_Name>
+<Category>Beverages</Category>
+<Unit_x0020_Price>2.99</Unit_x0020_Price>
+<Quantity>93</Quantity>
+<Revenue>278.07</Revenue>
+<Shipping_x0020_Fee>26.4167</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1383</Order_x0020_ID>
+<Order_x0020_Date>2014-12-07T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>7</Customer_x0020_ID>
+<Customer_x0020_Name>Company G</Customer_x0020_Name>
+<Address>123 7th Street</Address>
+<City>Boise</City>
+<State>ID</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Nancy Freehafer</Salesperson>
+<Region>North</Region>
+<Ship_x0020_Name>Ming-Yang Xie</Ship_x0020_Name>
+<Ship_x0020_Address>123 7th Street</Ship_x0020_Address>
+<Ship_x0020_City>Boise</Ship_x0020_City>
+<Ship_x0020_State>ID</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Product_x0020_Name>Coffee</Product_x0020_Name>
+<Category>Beverages</Category>
+<Unit_x0020_Price>46</Unit_x0020_Price>
+<Quantity>64</Quantity>
+<Revenue>2944</Revenue>
+<Shipping_x0020_Fee>279.68</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1384</Order_x0020_ID>
+<Order_x0020_Date>2014-12-10T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>10</Customer_x0020_ID>
+<Customer_x0020_Name>Company J</Customer_x0020_Name>
+<Address>123 10th Street</Address>
+<City>Chicago</City>
+<State>IL</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Laura Giussani</Salesperson>
+<Region>East</Region>
+<Shipped_x0020_Date>2014-12-12T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company A</Shipper_x0020_Name>
+<Ship_x0020_Name>Roland Wacker</Ship_x0020_Name>
+<Ship_x0020_Address>123 10th Street</Ship_x0020_Address>
+<Ship_x0020_City>Chicago</Ship_x0020_City>
+<Ship_x0020_State>IL</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Product_x0020_Name>Boysenberry Spread</Product_x0020_Name>
+<Category>Jams, Preserves</Category>
+<Unit_x0020_Price>25</Unit_x0020_Price>
+<Quantity>84</Quantity>
+<Revenue>2100</Revenue>
+<Shipping_x0020_Fee>220.5</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1385</Order_x0020_ID>
+<Order_x0020_Date>2014-12-10T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>10</Customer_x0020_ID>
+<Customer_x0020_Name>Company J</Customer_x0020_Name>
+<Address>123 10th Street</Address>
+<City>Chicago</City>
+<State>IL</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Laura Giussani</Salesperson>
+<Region>East</Region>
+<Shipped_x0020_Date>2014-12-12T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company A</Shipper_x0020_Name>
+<Ship_x0020_Name>Roland Wacker</Ship_x0020_Name>
+<Ship_x0020_Address>123 10th Street</Ship_x0020_Address>
+<Ship_x0020_City>Chicago</Ship_x0020_City>
+<Ship_x0020_State>IL</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Product_x0020_Name>Cajun Seasoning</Product_x0020_Name>
+<Category>Condiments</Category>
+<Unit_x0020_Price>22</Unit_x0020_Price>
+<Quantity>72</Quantity>
+<Revenue>1584</Revenue>
+<Shipping_x0020_Fee>150.48</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1386</Order_x0020_ID>
+<Order_x0020_Date>2014-12-10T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>10</Customer_x0020_ID>
+<Customer_x0020_Name>Company J</Customer_x0020_Name>
+<Address>123 10th Street</Address>
+<City>Chicago</City>
+<State>IL</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Laura Giussani</Salesperson>
+<Region>East</Region>
+<Shipped_x0020_Date>2014-12-12T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company A</Shipper_x0020_Name>
+<Ship_x0020_Name>Roland Wacker</Ship_x0020_Name>
+<Ship_x0020_Address>123 10th Street</Ship_x0020_Address>
+<Ship_x0020_City>Chicago</Ship_x0020_City>
+<Ship_x0020_State>IL</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Product_x0020_Name>Chocolate Biscuits Mix</Product_x0020_Name>
+<Category>Baked Goods &amp; Mixes</Category>
+<Unit_x0020_Price>9.2</Unit_x0020_Price>
+<Quantity>60</Quantity>
+<Revenue>552</Revenue>
+<Shipping_x0020_Fee>56.856</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1387</Order_x0020_ID>
+<Order_x0020_Date>2014-12-11T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>11</Customer_x0020_ID>
+<Customer_x0020_Name>Company K</Customer_x0020_Name>
+<Address>123 11th Street</Address>
+<City>Miami</City>
+<State>FL</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Anne Larsen</Salesperson>
+<Region>South</Region>
+<Shipper_x0020_Name>Shipping Company C</Shipper_x0020_Name>
+<Ship_x0020_Name>Peter Krschne</Ship_x0020_Name>
+<Ship_x0020_Address>123 11th Street</Ship_x0020_Address>
+<Ship_x0020_City>Miami</Ship_x0020_City>
+<Ship_x0020_State>FL</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Product_x0020_Name>Dried Plums</Product_x0020_Name>
+<Category>Dried Fruit &amp; Nuts</Category>
+<Unit_x0020_Price>3.5</Unit_x0020_Price>
+<Quantity>67</Quantity>
+<Revenue>234.5</Revenue>
+<Shipping_x0020_Fee>22.7465</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1388</Order_x0020_ID>
+<Order_x0020_Date>2014-12-11T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>11</Customer_x0020_ID>
+<Customer_x0020_Name>Company K</Customer_x0020_Name>
+<Address>123 11th Street</Address>
+<City>Miami</City>
+<State>FL</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Anne Larsen</Salesperson>
+<Region>South</Region>
+<Shipper_x0020_Name>Shipping Company C</Shipper_x0020_Name>
+<Ship_x0020_Name>Peter Krschne</Ship_x0020_Name>
+<Ship_x0020_Address>123 11th Street</Ship_x0020_Address>
+<Ship_x0020_City>Miami</Ship_x0020_City>
+<Ship_x0020_State>FL</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Product_x0020_Name>Green Tea</Product_x0020_Name>
+<Category>Beverages</Category>
+<Unit_x0020_Price>2.99</Unit_x0020_Price>
+<Quantity>48</Quantity>
+<Revenue>143.52</Revenue>
+<Shipping_x0020_Fee>13.6344</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1389</Order_x0020_ID>
+<Order_x0020_Date>2014-12-01T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>1</Customer_x0020_ID>
+<Customer_x0020_Name>Company A</Customer_x0020_Name>
+<Address>123 1st Street</Address>
+<City>Seattle</City>
+<State>WA</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Nancy Freehafer</Salesperson>
+<Region>North</Region>
+<Ship_x0020_Name>Anna Bedecs</Ship_x0020_Name>
+<Ship_x0020_Address>123 1st Street</Ship_x0020_Address>
+<Ship_x0020_City>Seattle</Ship_x0020_City>
+<Ship_x0020_State>WA</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Product_x0020_Name>Chai</Product_x0020_Name>
+<Category>Beverages</Category>
+<Unit_x0020_Price>18</Unit_x0020_Price>
+<Quantity>64</Quantity>
+<Revenue>1152</Revenue>
+<Shipping_x0020_Fee>118.656</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1390</Order_x0020_ID>
+<Order_x0020_Date>2014-12-01T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>1</Customer_x0020_ID>
+<Customer_x0020_Name>Company A</Customer_x0020_Name>
+<Address>123 1st Street</Address>
+<City>Seattle</City>
+<State>WA</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Nancy Freehafer</Salesperson>
+<Region>North</Region>
+<Ship_x0020_Name>Anna Bedecs</Ship_x0020_Name>
+<Ship_x0020_Address>123 1st Street</Ship_x0020_Address>
+<Ship_x0020_City>Seattle</Ship_x0020_City>
+<Ship_x0020_State>WA</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Product_x0020_Name>Coffee</Product_x0020_Name>
+<Category>Beverages</Category>
+<Unit_x0020_Price>46</Unit_x0020_Price>
+<Quantity>82</Quantity>
+<Revenue>3772</Revenue>
+<Shipping_x0020_Fee>392.288</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1391</Order_x0020_ID>
+<Order_x0020_Date>2014-12-01T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>1</Customer_x0020_ID>
+<Customer_x0020_Name>Company A</Customer_x0020_Name>
+<Address>123 1st Street</Address>
+<City>Seattle</City>
+<State>WA</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Nancy Freehafer</Salesperson>
+<Region>North</Region>
+<Ship_x0020_Name>Anna Bedecs</Ship_x0020_Name>
+<Ship_x0020_Address>123 1st Street</Ship_x0020_Address>
+<Ship_x0020_City>Seattle</Ship_x0020_City>
+<Ship_x0020_State>WA</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Product_x0020_Name>Green Tea</Product_x0020_Name>
+<Category>Beverages</Category>
+<Unit_x0020_Price>2.99</Unit_x0020_Price>
+<Quantity>17</Quantity>
+<Revenue>50.83</Revenue>
+<Shipping_x0020_Fee>5.1338</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1392</Order_x0020_ID>
+<Order_x0020_Date>2014-12-28T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>28</Customer_x0020_ID>
+<Customer_x0020_Name>Company BB</Customer_x0020_Name>
+<Address>789 28th Street</Address>
+<City>Memphis</City>
+<State>TN</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Anne Larsen</Salesperson>
+<Region>South</Region>
+<Shipped_x0020_Date>2014-12-30T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company C</Shipper_x0020_Name>
+<Ship_x0020_Name>Amritansh Raghav</Ship_x0020_Name>
+<Ship_x0020_Address>789 28th Street</Ship_x0020_Address>
+<Ship_x0020_City>Memphis</Ship_x0020_City>
+<Ship_x0020_State>TN</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Credit Card</Payment_x0020_Type>
+<Product_x0020_Name>Clam Chowder</Product_x0020_Name>
+<Category>Soups</Category>
+<Unit_x0020_Price>9.65</Unit_x0020_Price>
+<Quantity>38</Quantity>
+<Revenue>366.7</Revenue>
+<Shipping_x0020_Fee>36.67</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1393</Order_x0020_ID>
+<Order_x0020_Date>2014-12-28T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>28</Customer_x0020_ID>
+<Customer_x0020_Name>Company BB</Customer_x0020_Name>
+<Address>789 28th Street</Address>
+<City>Memphis</City>
+<State>TN</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Anne Larsen</Salesperson>
+<Region>South</Region>
+<Shipped_x0020_Date>2014-12-30T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company C</Shipper_x0020_Name>
+<Ship_x0020_Name>Amritansh Raghav</Ship_x0020_Name>
+<Ship_x0020_Address>789 28th Street</Ship_x0020_Address>
+<Ship_x0020_City>Memphis</Ship_x0020_City>
+<Ship_x0020_State>TN</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Credit Card</Payment_x0020_Type>
+<Product_x0020_Name>Crab Meat</Product_x0020_Name>
+<Category>Canned Meat</Category>
+<Unit_x0020_Price>18.4</Unit_x0020_Price>
+<Quantity>25</Quantity>
+<Revenue>460</Revenue>
+<Shipping_x0020_Fee>45.54</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1394</Order_x0020_ID>
+<Order_x0020_Date>2014-12-09T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>9</Customer_x0020_ID>
+<Customer_x0020_Name>Company I</Customer_x0020_Name>
+<Address>123 9th Street</Address>
+<City>Salt Lake City</City>
+<State>UT</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Robert Zare</Salesperson>
+<Region>West</Region>
+<Shipped_x0020_Date>2014-12-11T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company A</Shipper_x0020_Name>
+<Ship_x0020_Name>Sven Mortensen</Ship_x0020_Name>
+<Ship_x0020_Address>123 9th Street</Ship_x0020_Address>
+<Ship_x0020_City>Salt Lake City</Ship_x0020_City>
+<Ship_x0020_State>UT</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Check</Payment_x0020_Type>
+<Product_x0020_Name>Ravioli</Product_x0020_Name>
+<Category>Pasta</Category>
+<Unit_x0020_Price>19.5</Unit_x0020_Price>
+<Quantity>85</Quantity>
+<Revenue>1657.5</Revenue>
+<Shipping_x0020_Fee>165.75</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1395</Order_x0020_ID>
+<Order_x0020_Date>2014-12-09T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>9</Customer_x0020_ID>
+<Customer_x0020_Name>Company I</Customer_x0020_Name>
+<Address>123 9th Street</Address>
+<City>Salt Lake City</City>
+<State>UT</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Robert Zare</Salesperson>
+<Region>West</Region>
+<Shipped_x0020_Date>2014-12-11T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company A</Shipper_x0020_Name>
+<Ship_x0020_Name>Sven Mortensen</Ship_x0020_Name>
+<Ship_x0020_Address>123 9th Street</Ship_x0020_Address>
+<Ship_x0020_City>Salt Lake City</Ship_x0020_City>
+<Ship_x0020_State>UT</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Check</Payment_x0020_Type>
+<Product_x0020_Name>Mozzarella</Product_x0020_Name>
+<Category>Dairy Products</Category>
+<Unit_x0020_Price>34.8</Unit_x0020_Price>
+<Quantity>18</Quantity>
+<Revenue>626.4</Revenue>
+<Shipping_x0020_Fee>61.3872</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1396</Order_x0020_ID>
+<Order_x0020_Date>2014-12-06T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>6</Customer_x0020_ID>
+<Customer_x0020_Name>Company F</Customer_x0020_Name>
+<Address>123 6th Street</Address>
+<City>Milwaukee</City>
+<State>WI</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Michael Neipper</Salesperson>
+<Region>North</Region>
+<Shipped_x0020_Date>2014-12-08T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company B</Shipper_x0020_Name>
+<Ship_x0020_Name>Francisco Pérez-Olaeta</Ship_x0020_Name>
+<Ship_x0020_Address>123 6th Street</Ship_x0020_Address>
+<Ship_x0020_City>Milwaukee</Ship_x0020_City>
+<Ship_x0020_State>WI</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Credit Card</Payment_x0020_Type>
+<Product_x0020_Name>Beer</Product_x0020_Name>
+<Category>Beverages</Category>
+<Unit_x0020_Price>14</Unit_x0020_Price>
+<Quantity>85</Quantity>
+<Revenue>1190</Revenue>
+<Shipping_x0020_Fee>115.43</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1397</Order_x0020_ID>
+<Order_x0020_Date>2014-12-08T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>8</Customer_x0020_ID>
+<Customer_x0020_Name>Company H</Customer_x0020_Name>
+<Address>123 8th Street</Address>
+<City>Portland</City>
+<State>OR</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Nancy Freehafer</Salesperson>
+<Region>North</Region>
+<Shipped_x0020_Date>2014-12-10T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company B</Shipper_x0020_Name>
+<Ship_x0020_Name>Elizabeth Andersen</Ship_x0020_Name>
+<Ship_x0020_Address>123 8th Street</Ship_x0020_Address>
+<Ship_x0020_City>Portland</Ship_x0020_City>
+<Ship_x0020_State>OR</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Check</Payment_x0020_Type>
+<Product_x0020_Name>Curry Sauce</Product_x0020_Name>
+<Category>Sauces</Category>
+<Unit_x0020_Price>40</Unit_x0020_Price>
+<Quantity>82</Quantity>
+<Revenue>3280</Revenue>
+<Shipping_x0020_Fee>318.16</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1398</Order_x0020_ID>
+<Order_x0020_Date>2014-12-08T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>8</Customer_x0020_ID>
+<Customer_x0020_Name>Company H</Customer_x0020_Name>
+<Address>123 8th Street</Address>
+<City>Portland</City>
+<State>OR</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Nancy Freehafer</Salesperson>
+<Region>North</Region>
+<Shipped_x0020_Date>2014-12-10T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company B</Shipper_x0020_Name>
+<Ship_x0020_Name>Elizabeth Andersen</Ship_x0020_Name>
+<Ship_x0020_Address>123 8th Street</Ship_x0020_Address>
+<Ship_x0020_City>Portland</Ship_x0020_City>
+<Ship_x0020_State>OR</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Check</Payment_x0020_Type>
+<Product_x0020_Name>Chocolate Biscuits Mix</Product_x0020_Name>
+<Category>Baked Goods &amp; Mixes</Category>
+<Unit_x0020_Price>9.2</Unit_x0020_Price>
+<Quantity>47</Quantity>
+<Revenue>432.4</Revenue>
+<Shipping_x0020_Fee>41.5104</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1399</Order_x0020_ID>
+<Order_x0020_Date>2014-12-25T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>25</Customer_x0020_ID>
+<Customer_x0020_Name>Company Y</Customer_x0020_Name>
+<Address>789 25th Street</Address>
+<City>Chicago</City>
+<State>IL</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Laura Giussani</Salesperson>
+<Region>East</Region>
+<Shipped_x0020_Date>2014-12-27T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company A</Shipper_x0020_Name>
+<Ship_x0020_Name>John Rodman</Ship_x0020_Name>
+<Ship_x0020_Address>789 25th Street</Ship_x0020_Address>
+<Ship_x0020_City>Chicago</Ship_x0020_City>
+<Ship_x0020_State>IL</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Cash</Payment_x0020_Type>
+<Product_x0020_Name>Scones</Product_x0020_Name>
+<Category>Baked Goods &amp; Mixes</Category>
+<Unit_x0020_Price>10</Unit_x0020_Price>
+<Quantity>99</Quantity>
+<Revenue>990</Revenue>
+<Shipping_x0020_Fee>99</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1400</Order_x0020_ID>
+<Order_x0020_Date>2014-12-26T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>26</Customer_x0020_ID>
+<Customer_x0020_Name>Company Z</Customer_x0020_Name>
+<Address>789 26th Street</Address>
+<City>Miami</City>
+<State>FL</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Anne Larsen</Salesperson>
+<Region>South</Region>
+<Shipped_x0020_Date>2014-12-28T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company C</Shipper_x0020_Name>
+<Ship_x0020_Name>Run Liu</Ship_x0020_Name>
+<Ship_x0020_Address>789 26th Street</Ship_x0020_Address>
+<Ship_x0020_City>Miami</Ship_x0020_City>
+<Ship_x0020_State>FL</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Credit Card</Payment_x0020_Type>
+<Product_x0020_Name>Olive Oil</Product_x0020_Name>
+<Category>Oil</Category>
+<Unit_x0020_Price>21.35</Unit_x0020_Price>
+<Quantity>49</Quantity>
+<Revenue>1046.15</Revenue>
+<Shipping_x0020_Fee>106.7073</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1401</Order_x0020_ID>
+<Order_x0020_Date>2014-12-26T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>26</Customer_x0020_ID>
+<Customer_x0020_Name>Company Z</Customer_x0020_Name>
+<Address>789 26th Street</Address>
+<City>Miami</City>
+<State>FL</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Anne Larsen</Salesperson>
+<Region>South</Region>
+<Shipped_x0020_Date>2014-12-28T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company C</Shipper_x0020_Name>
+<Ship_x0020_Name>Run Liu</Ship_x0020_Name>
+<Ship_x0020_Address>789 26th Street</Ship_x0020_Address>
+<Ship_x0020_City>Miami</Ship_x0020_City>
+<Ship_x0020_State>FL</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Credit Card</Payment_x0020_Type>
+<Product_x0020_Name>Clam Chowder</Product_x0020_Name>
+<Category>Soups</Category>
+<Unit_x0020_Price>9.65</Unit_x0020_Price>
+<Quantity>72</Quantity>
+<Revenue>694.8</Revenue>
+<Shipping_x0020_Fee>72.954</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1402</Order_x0020_ID>
+<Order_x0020_Date>2014-12-26T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>26</Customer_x0020_ID>
+<Customer_x0020_Name>Company Z</Customer_x0020_Name>
+<Address>789 26th Street</Address>
+<City>Miami</City>
+<State>FL</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Anne Larsen</Salesperson>
+<Region>South</Region>
+<Shipped_x0020_Date>2014-12-28T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company C</Shipper_x0020_Name>
+<Ship_x0020_Name>Run Liu</Ship_x0020_Name>
+<Ship_x0020_Address>789 26th Street</Ship_x0020_Address>
+<Ship_x0020_City>Miami</Ship_x0020_City>
+<Ship_x0020_State>FL</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Credit Card</Payment_x0020_Type>
+<Product_x0020_Name>Crab Meat</Product_x0020_Name>
+<Category>Canned Meat</Category>
+<Unit_x0020_Price>18.4</Unit_x0020_Price>
+<Quantity>99</Quantity>
+<Revenue>1821.6</Revenue>
+<Shipping_x0020_Fee>191.268</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1403</Order_x0020_ID>
+<Order_x0020_Date>2014-12-29T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>29</Customer_x0020_ID>
+<Customer_x0020_Name>Company CC</Customer_x0020_Name>
+<Address>789 29th Street</Address>
+<City>Denver</City>
+<State>CO</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Jan Kotas</Salesperson>
+<Region>West</Region>
+<Shipped_x0020_Date>2014-12-31T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company B</Shipper_x0020_Name>
+<Ship_x0020_Name>Soo Jung Lee</Ship_x0020_Name>
+<Ship_x0020_Address>789 29th Street</Ship_x0020_Address>
+<Ship_x0020_City>Denver</Ship_x0020_City>
+<Ship_x0020_State>CO</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Check</Payment_x0020_Type>
+<Product_x0020_Name>Beer</Product_x0020_Name>
+<Category>Beverages</Category>
+<Unit_x0020_Price>14</Unit_x0020_Price>
+<Quantity>10</Quantity>
+<Revenue>140</Revenue>
+<Shipping_x0020_Fee>13.86</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1404</Order_x0020_ID>
+<Order_x0020_Date>2014-12-06T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>6</Customer_x0020_ID>
+<Customer_x0020_Name>Company F</Customer_x0020_Name>
+<Address>123 6th Street</Address>
+<City>Milwaukee</City>
+<State>WI</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Michael Neipper</Salesperson>
+<Region>North</Region>
+<Shipped_x0020_Date>2014-12-08T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company C</Shipper_x0020_Name>
+<Ship_x0020_Name>Francisco Pérez-Olaeta</Ship_x0020_Name>
+<Ship_x0020_Address>123 6th Street</Ship_x0020_Address>
+<Ship_x0020_City>Milwaukee</Ship_x0020_City>
+<Ship_x0020_State>WI</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Check</Payment_x0020_Type>
+<Product_x0020_Name>Chocolate</Product_x0020_Name>
+<Category>Candy</Category>
+<Unit_x0020_Price>12.75</Unit_x0020_Price>
+<Quantity>100</Quantity>
+<Revenue>1275</Revenue>
+<Shipping_x0020_Fee>122.4</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1405</Order_x0020_ID>
+<Order_x0020_Date>2014-12-27T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>27</Customer_x0020_ID>
+<Customer_x0020_Name>Company AA</Customer_x0020_Name>
+<Address>789 27th Street</Address>
+<City>Las Vegas</City>
+<State>NV</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Mariya Sergienko</Salesperson>
+<Region>West</Region>
+<Shipped_x0020_Date>2014-12-29T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company B</Shipper_x0020_Name>
+<Ship_x0020_Name>Karen Toh</Ship_x0020_Name>
+<Ship_x0020_Address>789 27th Street</Ship_x0020_Address>
+<Ship_x0020_City>Las Vegas</Ship_x0020_City>
+<Ship_x0020_State>NV</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Check</Payment_x0020_Type>
+<Revenue>0</Revenue>
+<Shipping_x0020_Fee>27</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1406</Order_x0020_ID>
+<Order_x0020_Date>2014-12-04T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>4</Customer_x0020_ID>
+<Customer_x0020_Name>Company D</Customer_x0020_Name>
+<Address>123 4th Street</Address>
+<City>New York</City>
+<State>NY</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Andrew Cencini</Salesperson>
+<Region>East</Region>
+<Shipped_x0020_Date>2014-12-06T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company A</Shipper_x0020_Name>
+<Ship_x0020_Name>Christina Lee</Ship_x0020_Name>
+<Ship_x0020_Address>123 4th Street</Ship_x0020_Address>
+<Ship_x0020_City>New York</Ship_x0020_City>
+<Ship_x0020_State>NY</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Credit Card</Payment_x0020_Type>
+<Product_x0020_Name>Marmalade</Product_x0020_Name>
+<Category>Jams, Preserves</Category>
+<Unit_x0020_Price>81</Unit_x0020_Price>
+<Quantity>62</Quantity>
+<Revenue>1377</Revenue>
+<Shipping_x0020_Fee>117.936</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1407</Order_x0020_ID>
+<Order_x0020_Date>2014-12-04T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>4</Customer_x0020_ID>
+<Customer_x0020_Name>Company D</Customer_x0020_Name>
+<Address>123 4th Street</Address>
+<City>New York</City>
+<State>NY</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Andrew Cencini</Salesperson>
+<Region>East</Region>
+<Shipped_x0020_Date>2014-12-06T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company A</Shipper_x0020_Name>
+<Ship_x0020_Name>Christina Lee</Ship_x0020_Name>
+<Ship_x0020_Address>123 4th Street</Ship_x0020_Address>
+<Ship_x0020_City>New York</Ship_x0020_City>
+<Ship_x0020_State>NY</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Credit Card</Payment_x0020_Type>
+<Product_x0020_Name>Long Grain Rice</Product_x0020_Name>
+<Category>Grains</Category>
+<Unit_x0020_Price>7</Unit_x0020_Price>
+<Quantity>91</Quantity>
+<Revenue>196</Revenue>
+<Shipping_x0020_Fee>13.72</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1408</Order_x0020_ID>
+<Order_x0020_Date>2014-12-12T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>12</Customer_x0020_ID>
+<Customer_x0020_Name>Company L</Customer_x0020_Name>
+<Address>123 12th Street</Address>
+<City>Las Vegas</City>
+<State>NV</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Mariya Sergienko</Salesperson>
+<Region>West</Region>
+<Shipped_x0020_Date>2014-12-14T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company B</Shipper_x0020_Name>
+<Ship_x0020_Name>John Edwards</Ship_x0020_Name>
+<Ship_x0020_Address>123 12th Street</Ship_x0020_Address>
+<Ship_x0020_City>Las Vegas</Ship_x0020_City>
+<Ship_x0020_State>NV</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Credit Card</Payment_x0020_Type>
+<Revenue>0</Revenue>
+<Shipping_x0020_Fee>8</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1409</Order_x0020_ID>
+<Order_x0020_Date>2014-12-08T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>8</Customer_x0020_ID>
+<Customer_x0020_Name>Company H</Customer_x0020_Name>
+<Address>123 8th Street</Address>
+<City>Portland</City>
+<State>OR</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Nancy Freehafer</Salesperson>
+<Region>North</Region>
+<Shipped_x0020_Date>2014-12-10T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company C</Shipper_x0020_Name>
+<Ship_x0020_Name>Elizabeth Andersen</Ship_x0020_Name>
+<Ship_x0020_Address>123 8th Street</Ship_x0020_Address>
+<Ship_x0020_City>Portland</Ship_x0020_City>
+<Ship_x0020_State>OR</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Credit Card</Payment_x0020_Type>
+<Product_x0020_Name>Mozzarella</Product_x0020_Name>
+<Category>Dairy Products</Category>
+<Unit_x0020_Price>34.8</Unit_x0020_Price>
+<Quantity>29</Quantity>
+<Revenue>2923.2</Revenue>
+<Shipping_x0020_Fee>300.846</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1410</Order_x0020_ID>
+<Order_x0020_Date>2014-12-04T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>4</Customer_x0020_ID>
+<Customer_x0020_Name>Company D</Customer_x0020_Name>
+<Address>123 4th Street</Address>
+<City>New York</City>
+<State>NY</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Andrew Cencini</Salesperson>
+<Region>East</Region>
+<Shipped_x0020_Date>2014-12-06T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company C</Shipper_x0020_Name>
+<Ship_x0020_Name>Christina Lee</Ship_x0020_Name>
+<Ship_x0020_Address>123 4th Street</Ship_x0020_Address>
+<Ship_x0020_City>New York</Ship_x0020_City>
+<Ship_x0020_State>NY</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Check</Payment_x0020_Type>
+<Revenue>0</Revenue>
+<Shipping_x0020_Fee>9</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1411</Order_x0020_ID>
+<Order_x0020_Date>2014-12-29T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>29</Customer_x0020_ID>
+<Customer_x0020_Name>Company CC</Customer_x0020_Name>
+<Address>789 29th Street</Address>
+<City>Denver</City>
+<State>CO</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Jan Kotas</Salesperson>
+<Region>West</Region>
+<Shipped_x0020_Date>2014-12-31T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company B</Shipper_x0020_Name>
+<Ship_x0020_Name>Soo Jung Lee</Ship_x0020_Name>
+<Ship_x0020_Address>789 29th Street</Ship_x0020_Address>
+<Ship_x0020_City>Denver</Ship_x0020_City>
+<Ship_x0020_State>CO</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Check</Payment_x0020_Type>
+<Revenue>0</Revenue>
+<Shipping_x0020_Fee>23</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1412</Order_x0020_ID>
+<Order_x0020_Date>2014-12-03T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>3</Customer_x0020_ID>
+<Customer_x0020_Name>Company C</Customer_x0020_Name>
+<Address>123 3rd Street</Address>
+<City>Los Angelas</City>
+<State>CA</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Mariya Sergienko</Salesperson>
+<Region>West</Region>
+<Shipped_x0020_Date>2014-12-05T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company B</Shipper_x0020_Name>
+<Ship_x0020_Name>Thomas Axerr</Ship_x0020_Name>
+<Ship_x0020_Address>123 3rd Street</Ship_x0020_Address>
+<Ship_x0020_City>Los Angelas</Ship_x0020_City>
+<Ship_x0020_State>CA</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Cash</Payment_x0020_Type>
+<Product_x0020_Name>Syrup</Product_x0020_Name>
+<Category>Condiments</Category>
+<Unit_x0020_Price>10</Unit_x0020_Price>
+<Quantity>49</Quantity>
+<Revenue>280</Revenue>
+<Shipping_x0020_Fee>90.25</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1413</Order_x0020_ID>
+<Order_x0020_Date>2014-12-03T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>3</Customer_x0020_ID>
+<Customer_x0020_Name>Company C</Customer_x0020_Name>
+<Address>123 3rd Street</Address>
+<City>Los Angelas</City>
+<State>CA</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Mariya Sergienko</Salesperson>
+<Region>West</Region>
+<Shipped_x0020_Date>2014-12-05T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company B</Shipper_x0020_Name>
+<Ship_x0020_Name>Thomas Axerr</Ship_x0020_Name>
+<Ship_x0020_Address>123 3rd Street</Ship_x0020_Address>
+<Ship_x0020_City>Los Angelas</Ship_x0020_City>
+<Ship_x0020_State>CA</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Cash</Payment_x0020_Type>
+<Product_x0020_Name>Curry Sauce</Product_x0020_Name>
+<Category>Sauces</Category>
+<Unit_x0020_Price>40</Unit_x0020_Price>
+<Quantity>29</Quantity>
+<Revenue>480</Revenue>
+<Shipping_x0020_Fee>239.12</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1414</Order_x0020_ID>
+<Order_x0020_Date>2014-12-06T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>6</Customer_x0020_ID>
+<Customer_x0020_Name>Company F</Customer_x0020_Name>
+<Address>123 6th Street</Address>
+<City>Milwaukee</City>
+<State>WI</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Michael Neipper</Salesperson>
+<Region>North</Region>
+<Shipped_x0020_Date>2014-12-08T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company B</Shipper_x0020_Name>
+<Ship_x0020_Name>Francisco Pérez-Olaeta</Ship_x0020_Name>
+<Ship_x0020_Address>123 6th Street</Ship_x0020_Address>
+<Ship_x0020_City>Milwaukee</Ship_x0020_City>
+<Ship_x0020_State>WI</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Credit Card</Payment_x0020_Type>
+<Revenue>0</Revenue>
+<Shipping_x0020_Fee>31</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1415</Order_x0020_ID>
+<Order_x0020_Date>2014-12-28T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>28</Customer_x0020_ID>
+<Customer_x0020_Name>Company BB</Customer_x0020_Name>
+<Address>789 28th Street</Address>
+<City>Memphis</City>
+<State>TN</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Anne Larsen</Salesperson>
+<Region>South</Region>
+<Shipped_x0020_Date>2014-12-30T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company C</Shipper_x0020_Name>
+<Ship_x0020_Name>Amritansh Raghav</Ship_x0020_Name>
+<Ship_x0020_Address>789 28th Street</Ship_x0020_Address>
+<Ship_x0020_City>Memphis</Ship_x0020_City>
+<Ship_x0020_State>TN</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Check</Payment_x0020_Type>
+<Revenue>0</Revenue>
+<Shipping_x0020_Fee>20</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1416</Order_x0020_ID>
+<Order_x0020_Date>2014-12-08T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>8</Customer_x0020_ID>
+<Customer_x0020_Name>Company H</Customer_x0020_Name>
+<Address>123 8th Street</Address>
+<City>Portland</City>
+<State>OR</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Nancy Freehafer</Salesperson>
+<Region>North</Region>
+<Shipped_x0020_Date>2014-12-10T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company C</Shipper_x0020_Name>
+<Ship_x0020_Name>Elizabeth Andersen</Ship_x0020_Name>
+<Ship_x0020_Address>123 8th Street</Ship_x0020_Address>
+<Ship_x0020_City>Portland</Ship_x0020_City>
+<Ship_x0020_State>OR</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Check</Payment_x0020_Type>
+<Revenue>0</Revenue>
+<Shipping_x0020_Fee>34</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1417</Order_x0020_ID>
+<Order_x0020_Date>2014-12-10T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>10</Customer_x0020_ID>
+<Customer_x0020_Name>Company J</Customer_x0020_Name>
+<Address>123 10th Street</Address>
+<City>Chicago</City>
+<State>IL</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Laura Giussani</Salesperson>
+<Region>East</Region>
+<Shipped_x0020_Date>2014-12-12T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company B</Shipper_x0020_Name>
+<Ship_x0020_Name>Roland Wacker</Ship_x0020_Name>
+<Ship_x0020_Address>123 10th Street</Ship_x0020_Address>
+<Ship_x0020_City>Chicago</Ship_x0020_City>
+<Ship_x0020_State>IL</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Credit Card</Payment_x0020_Type>
+<Product_x0020_Name>Almonds</Product_x0020_Name>
+<Category>Dried Fruit &amp; Nuts</Category>
+<Unit_x0020_Price>10</Unit_x0020_Price>
+<Quantity>81</Quantity>
+<Revenue>450</Revenue>
+<Shipping_x0020_Fee>62.83</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1418</Order_x0020_ID>
+<Order_x0020_Date>2014-12-07T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>7</Customer_x0020_ID>
+<Customer_x0020_Name>Company G</Customer_x0020_Name>
+<Address>123 7th Street</Address>
+<City>Boise</City>
+<State>ID</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Nancy Freehafer</Salesperson>
+<Region>North</Region>
+<Ship_x0020_Name>Ming-Yang Xie</Ship_x0020_Name>
+<Ship_x0020_Address>123 7th Street</Ship_x0020_Address>
+<Ship_x0020_City>Boise</Ship_x0020_City>
+<Ship_x0020_State>ID</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Revenue>0</Revenue>
+<Shipping_x0020_Fee>33</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1419</Order_x0020_ID>
+<Order_x0020_Date>2014-12-10T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>10</Customer_x0020_ID>
+<Customer_x0020_Name>Company J</Customer_x0020_Name>
+<Address>123 10th Street</Address>
+<City>Chicago</City>
+<State>IL</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Laura Giussani</Salesperson>
+<Region>East</Region>
+<Shipper_x0020_Name>Shipping Company A</Shipper_x0020_Name>
+<Ship_x0020_Name>Roland Wacker</Ship_x0020_Name>
+<Ship_x0020_Address>123 10th Street</Ship_x0020_Address>
+<Ship_x0020_City>Chicago</Ship_x0020_City>
+<Ship_x0020_State>IL</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Product_x0020_Name>Dried Plums</Product_x0020_Name>
+<Category>Dried Fruit &amp; Nuts</Category>
+<Unit_x0020_Price>3.5</Unit_x0020_Price>
+<Quantity>96</Quantity>
+<Revenue>301</Revenue>
+<Shipping_x0020_Fee>21.315</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1420</Order_x0020_ID>
+<Order_x0020_Date>2014-12-11T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>11</Customer_x0020_ID>
+<Customer_x0020_Name>Company K</Customer_x0020_Name>
+<Address>123 11th Street</Address>
+<City>Miami</City>
+<State>FL</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Anne Larsen</Salesperson>
+<Region>South</Region>
+<Shipper_x0020_Name>Shipping Company C</Shipper_x0020_Name>
+<Ship_x0020_Name>Peter Krschne</Ship_x0020_Name>
+<Ship_x0020_Address>123 11th Street</Ship_x0020_Address>
+<Ship_x0020_City>Miami</Ship_x0020_City>
+<Ship_x0020_State>FL</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Product_x0020_Name>Curry Sauce</Product_x0020_Name>
+<Category>Sauces</Category>
+<Unit_x0020_Price>40</Unit_x0020_Price>
+<Quantity>81</Quantity>
+<Revenue>3080</Revenue>
+<Shipping_x0020_Fee>378</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1421</Order_x0020_ID>
+<Order_x0020_Date>2014-12-01T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>1</Customer_x0020_ID>
+<Customer_x0020_Name>Company A</Customer_x0020_Name>
+<Address>123 1st Street</Address>
+<City>Seattle</City>
+<State>WA</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Nancy Freehafer</Salesperson>
+<Region>North</Region>
+<Shipper_x0020_Name>Shipping Company C</Shipper_x0020_Name>
+<Ship_x0020_Name>Anna Bedecs</Ship_x0020_Name>
+<Ship_x0020_Address>123 1st Street</Ship_x0020_Address>
+<Ship_x0020_City>Seattle</Ship_x0020_City>
+<Ship_x0020_State>WA</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Product_x0020_Name>Crab Meat</Product_x0020_Name>
+<Category>Canned Meat</Category>
+<Unit_x0020_Price>18.4</Unit_x0020_Price>
+<Quantity>88</Quantity>
+<Revenue>680.8</Revenue>
+<Shipping_x0020_Fee>148.1384</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1422</Order_x0020_ID>
+<Order_x0020_Date>2014-12-28T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>28</Customer_x0020_ID>
+<Customer_x0020_Name>Company BB</Customer_x0020_Name>
+<Address>789 28th Street</Address>
+<City>Memphis</City>
+<State>TN</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Anne Larsen</Salesperson>
+<Region>South</Region>
+<Shipped_x0020_Date>2014-12-30T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company C</Shipper_x0020_Name>
+<Ship_x0020_Name>Amritansh Raghav</Ship_x0020_Name>
+<Ship_x0020_Address>789 28th Street</Ship_x0020_Address>
+<Ship_x0020_City>Memphis</Ship_x0020_City>
+<Ship_x0020_State>TN</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Credit Card</Payment_x0020_Type>
+<Product_x0020_Name>Coffee</Product_x0020_Name>
+<Category>Beverages</Category>
+<Unit_x0020_Price>46</Unit_x0020_Price>
+<Quantity>92</Quantity>
+<Revenue>1794</Revenue>
+<Shipping_x0020_Fee>365.148</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1423</Order_x0020_ID>
+<Order_x0020_Date>2014-12-09T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>9</Customer_x0020_ID>
+<Customer_x0020_Name>Company I</Customer_x0020_Name>
+<Address>123 9th Street</Address>
+<City>Salt Lake City</City>
+<State>UT</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Robert Zare</Salesperson>
+<Region>West</Region>
+<Shipped_x0020_Date>2014-12-11T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company A</Shipper_x0020_Name>
+<Ship_x0020_Name>Sven Mortensen</Ship_x0020_Name>
+<Ship_x0020_Address>123 9th Street</Ship_x0020_Address>
+<Ship_x0020_City>Salt Lake City</Ship_x0020_City>
+<Ship_x0020_State>UT</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Check</Payment_x0020_Type>
+<Product_x0020_Name>Clam Chowder</Product_x0020_Name>
+<Category>Soups</Category>
+<Unit_x0020_Price>9.65</Unit_x0020_Price>
+<Quantity>34</Quantity>
+<Revenue>530.75</Revenue>
+<Shipping_x0020_Fee>68.5826</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1424</Order_x0020_ID>
+<Order_x0020_Date>2014-12-06T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>6</Customer_x0020_ID>
+<Customer_x0020_Name>Company F</Customer_x0020_Name>
+<Address>123 6th Street</Address>
+<City>Milwaukee</City>
+<State>WI</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Michael Neipper</Salesperson>
+<Region>North</Region>
+<Shipped_x0020_Date>2014-12-08T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company B</Shipper_x0020_Name>
+<Ship_x0020_Name>Francisco Pérez-Olaeta</Ship_x0020_Name>
+<Ship_x0020_Address>123 6th Street</Ship_x0020_Address>
+<Ship_x0020_City>Milwaukee</Ship_x0020_City>
+<Ship_x0020_State>WI</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Credit Card</Payment_x0020_Type>
+<Product_x0020_Name>Chocolate</Product_x0020_Name>
+<Category>Candy</Category>
+<Unit_x0020_Price>12.75</Unit_x0020_Price>
+<Quantity>41</Quantity>
+<Revenue>1096.5</Revenue>
+<Shipping_x0020_Fee>43.7835</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1425</Order_x0020_ID>
+<Order_x0020_Date>2014-12-08T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>8</Customer_x0020_ID>
+<Customer_x0020_Name>Company H</Customer_x0020_Name>
+<Address>123 8th Street</Address>
+<City>Portland</City>
+<State>OR</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Nancy Freehafer</Salesperson>
+<Region>North</Region>
+<Shipped_x0020_Date>2014-12-10T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company B</Shipper_x0020_Name>
+<Ship_x0020_Name>Elizabeth Andersen</Ship_x0020_Name>
+<Ship_x0020_Address>123 8th Street</Ship_x0020_Address>
+<Ship_x0020_City>Portland</Ship_x0020_City>
+<Ship_x0020_State>OR</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Check</Payment_x0020_Type>
+<Product_x0020_Name>Chocolate</Product_x0020_Name>
+<Category>Candy</Category>
+<Unit_x0020_Price>12.75</Unit_x0020_Price>
+<Quantity>67</Quantity>
+<Revenue>1185.75</Revenue>
+<Shipping_x0020_Fee>82.875</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1426</Order_x0020_ID>
+<Order_x0020_Date>2014-12-25T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>25</Customer_x0020_ID>
+<Customer_x0020_Name>Company Y</Customer_x0020_Name>
+<Address>789 25th Street</Address>
+<City>Chicago</City>
+<State>IL</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Laura Giussani</Salesperson>
+<Region>East</Region>
+<Shipped_x0020_Date>2014-12-27T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company A</Shipper_x0020_Name>
+<Ship_x0020_Name>John Rodman</Ship_x0020_Name>
+<Ship_x0020_Address>789 25th Street</Ship_x0020_Address>
+<Ship_x0020_City>Chicago</Ship_x0020_City>
+<Ship_x0020_State>IL</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Cash</Payment_x0020_Type>
+<Product_x0020_Name>Cajun Seasoning</Product_x0020_Name>
+<Category>Condiments</Category>
+<Unit_x0020_Price>22</Unit_x0020_Price>
+<Quantity>74</Quantity>
+<Revenue>1166</Revenue>
+<Shipping_x0020_Fee>84.48</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1427</Order_x0020_ID>
+<Order_x0020_Date>2014-12-26T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>26</Customer_x0020_ID>
+<Customer_x0020_Name>Company Z</Customer_x0020_Name>
+<Address>789 26th Street</Address>
+<City>Miami</City>
+<State>FL</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Anne Larsen</Salesperson>
+<Region>South</Region>
+<Shipped_x0020_Date>2014-12-28T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company C</Shipper_x0020_Name>
+<Ship_x0020_Name>Run Liu</Ship_x0020_Name>
+<Ship_x0020_Address>789 26th Street</Ship_x0020_Address>
+<Ship_x0020_City>Miami</Ship_x0020_City>
+<Ship_x0020_State>FL</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Credit Card</Payment_x0020_Type>
+<Product_x0020_Name>Boysenberry Spread</Product_x0020_Name>
+<Category>Jams, Preserves</Category>
+<Unit_x0020_Price>25</Unit_x0020_Price>
+<Quantity>24</Quantity>
+<Revenue>1550</Revenue>
+<Shipping_x0020_Fee>164.15</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1428</Order_x0020_ID>
+<Order_x0020_Date>2014-12-29T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>29</Customer_x0020_ID>
+<Customer_x0020_Name>Company CC</Customer_x0020_Name>
+<Address>789 29th Street</Address>
+<City>Denver</City>
+<State>CO</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Jan Kotas</Salesperson>
+<Region>West</Region>
+<Shipped_x0020_Date>2014-12-31T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company B</Shipper_x0020_Name>
+<Ship_x0020_Name>Soo Jung Lee</Ship_x0020_Name>
+<Ship_x0020_Address>789 29th Street</Ship_x0020_Address>
+<Ship_x0020_City>Denver</Ship_x0020_City>
+<Ship_x0020_State>CO</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Check</Payment_x0020_Type>
+<Product_x0020_Name>Fruit Cocktail</Product_x0020_Name>
+<Category>Fruit &amp; Veg</Category>
+<Unit_x0020_Price>39</Unit_x0020_Price>
+<Quantity>41</Quantity>
+<Revenue>546</Revenue>
+<Shipping_x0020_Fee>193.011</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1429</Order_x0020_ID>
+<Order_x0020_Date>2014-12-06T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>6</Customer_x0020_ID>
+<Customer_x0020_Name>Company F</Customer_x0020_Name>
+<Address>123 6th Street</Address>
+<City>Milwaukee</City>
+<State>WI</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Michael Neipper</Salesperson>
+<Region>North</Region>
+<Shipped_x0020_Date>2014-12-08T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company C</Shipper_x0020_Name>
+<Ship_x0020_Name>Francisco Pérez-Olaeta</Ship_x0020_Name>
+<Ship_x0020_Address>123 6th Street</Ship_x0020_Address>
+<Ship_x0020_City>Milwaukee</Ship_x0020_City>
+<Ship_x0020_State>WI</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Check</Payment_x0020_Type>
+<Product_x0020_Name>Dried Pears</Product_x0020_Name>
+<Category>Dried Fruit &amp; Nuts</Category>
+<Unit_x0020_Price>30</Unit_x0020_Price>
+<Quantity>12</Quantity>
+<Revenue>2190</Revenue>
+<Shipping_x0020_Fee>200.85</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1430</Order_x0020_ID>
+<Order_x0020_Date>2014-12-06T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>6</Customer_x0020_ID>
+<Customer_x0020_Name>Company F</Customer_x0020_Name>
+<Address>123 6th Street</Address>
+<City>Milwaukee</City>
+<State>WI</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Michael Neipper</Salesperson>
+<Region>North</Region>
+<Shipped_x0020_Date>2014-12-08T00:00:00</Shipped_x0020_Date>
+<Shipper_x0020_Name>Shipping Company C</Shipper_x0020_Name>
+<Ship_x0020_Name>Francisco Pérez-Olaeta</Ship_x0020_Name>
+<Ship_x0020_Address>123 6th Street</Ship_x0020_Address>
+<Ship_x0020_City>Milwaukee</Ship_x0020_City>
+<Ship_x0020_State>WI</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Payment_x0020_Type>Check</Payment_x0020_Type>
+<Product_x0020_Name>Dried Apples</Product_x0020_Name>
+<Category>Dried Fruit &amp; Nuts</Category>
+<Unit_x0020_Price>53</Unit_x0020_Price>
+<Quantity>68</Quantity>
+<Revenue>3763</Revenue>
+<Shipping_x0020_Fee>225.621</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1431</Order_x0020_ID>
+<Order_x0020_Date>2014-12-04T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>4</Customer_x0020_ID>
+<Customer_x0020_Name>Company D</Customer_x0020_Name>
+<Address>123 4th Street</Address>
+<City>New York</City>
+<State>NY</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Andrew Cencini</Salesperson>
+<Region>East</Region>
+<Ship_x0020_Name>Christina Lee</Ship_x0020_Name>
+<Ship_x0020_Address>123 4th Street</Ship_x0020_Address>
+<Ship_x0020_City>New York</Ship_x0020_City>
+<Ship_x0020_State>NY</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Product_x0020_Name>Gnocchi</Product_x0020_Name>
+<Category>Pasta</Category>
+<Unit_x0020_Price>38</Unit_x0020_Price>
+<Quantity>33</Quantity>
+<Revenue>2812</Revenue>
+<Shipping_x0020_Fee>175.028</Shipping_x0020_Fee>
+</Sales01>
+<Sales01>
+<Order_x0020_ID>1432</Order_x0020_ID>
+<Order_x0020_Date>2014-12-03T00:00:00</Order_x0020_Date>
+<Customer_x0020_ID>3</Customer_x0020_ID>
+<Customer_x0020_Name>Company C</Customer_x0020_Name>
+<Address>123 3rd Street</Address>
+<City>Los Angelas</City>
+<State>CA</State>
+<ZIP_x002F_Postal_x0020_Code>99999</ZIP_x002F_Postal_x0020_Code>
+<Country_x002F_Region>USA</Country_x002F_Region>
+<Salesperson>Mariya Sergienko</Salesperson>
+<Region>West</Region>
+<Ship_x0020_Name>Thomas Axerr</Ship_x0020_Name>
+<Ship_x0020_Address>123 3rd Street</Ship_x0020_Address>
+<Ship_x0020_City>Los Angelas</Ship_x0020_City>
+<Ship_x0020_State>CA</Ship_x0020_State>
+<Ship_x0020_ZIP_x002F_Postal_x0020_Code>99999</Ship_x0020_ZIP_x002F_Postal_x0020_Code>
+<Ship_x0020_Country_x002F_Region>USA</Ship_x0020_Country_x002F_Region>
+<Product_x0020_Name>Green Tea</Product_x0020_Name>
+<Category>Beverages</Category>
+<Unit_x0020_Price>2.99</Unit_x0020_Price>
+<Quantity>12</Quantity>
+<Revenue>296.01</Revenue>
+<Shipping_x0020_Fee>17.043</Shipping_x0020_Fee>
+</Sales01>
+</dataroot>

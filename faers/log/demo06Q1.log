@@ -1,0 +1,138 @@
+NOTE: PROCEDURE PRINTTO used (Total process time):
+      real time           0.00 seconds
+      cpu time            0.01 seconds
+      
+
+105  
+106  PROC IMPORT OUT= WORK.Demo06Q1
+107              DATAFILE= "C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\DEMO06Q1.TXT"
+108              DBMS=DLM REPLACE;
+109       DELIMITER='24'x;
+110       GETNAMES=YES;
+111       DATAROW=2;
+112       GUESSINGROWS=1000;
+113  RUN;
+
+Number of names found is less than number of variables found. 
+Number of names found is less than number of variables found. 
+114   /**********************************************************************
+115   *   PRODUCT:   SAS
+116   *   VERSION:   9.4
+117   *   CREATOR:   External File Interface
+118   *   DATE:      16SEP15
+119   *   DESC:      Generated SAS Datastep Code
+120   *   TEMPLATE SOURCE:  (None Specified.)
+121   ***********************************************************************/
+122      data WORK.DEMO06Q1    ;
+123      %let _EFIERR_ = 0; /* set the ERROR detection macro variable */
+124      infile 'C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\DEMO06Q1.TXT' delimiter =
+124!  '$' MISSOVER DSD lrecl=32767 firstobs=2 ;
+125         informat ISR best32. ;
+126         informat CASE best32. ;
+127         informat I_F_COD $1. ;
+128         informat FOLL_SEQ best32. ;
+129         informat IMAGE $9. ;
+130         informat EVENT_DT best32. ;
+131         informat MFR_DT best32. ;
+132         informat FDA_DT best32. ;
+133         informat REPT_COD $3. ;
+134         informat MFR_NUM $61. ;
+135         informat MFR_SNDR $49. ;
+136         informat AGE best32. ;
+137         informat AGE_COD $3. ;
+138         informat GNDR_COD $3. ;
+139         informat E_SUB $1. ;
+140         informat WT best32. ;
+141         informat WT_COD $3. ;
+142         informat REPT_DT best32. ;
+143         informat OCCP_COD $2. ;
+144         informat DEATH_DT best32. ;
+145         informat TO_MFR $1. ;
+146         informat CONFID $1. ;
+147         informat REPORTER_COUNTRY $25. ;
+148         informat VAR24 $1. ;
+149         format ISR best12. ;
+150         format CASE best12. ;
+151         format I_F_COD $1. ;
+152         format FOLL_SEQ best12. ;
+153         format IMAGE $9. ;
+154         format EVENT_DT best12. ;
+155         format MFR_DT best12. ;
+156         format FDA_DT best12. ;
+157         format REPT_COD $3. ;
+158         format MFR_NUM $61. ;
+159         format MFR_SNDR $49. ;
+160         format AGE best12. ;
+161         format AGE_COD $3. ;
+162         format GNDR_COD $3. ;
+163         format E_SUB $1. ;
+164         format WT best12. ;
+165         format WT_COD $3. ;
+166         format REPT_DT best12. ;
+167         format OCCP_COD $2. ;
+168         format DEATH_DT best12. ;
+169         format TO_MFR $1. ;
+170         format CONFID $1. ;
+171         format REPORTER_COUNTRY $25. ;
+172         format VAR24 $1. ;
+173      input
+174                  ISR
+175                  CASE
+176                  I_F_COD $
+177                  FOLL_SEQ
+178                  IMAGE $
+179                  EVENT_DT
+180                  MFR_DT
+181                  FDA_DT
+182                  REPT_COD $
+183                  MFR_NUM $
+184                  MFR_SNDR $
+185                  AGE
+186                  AGE_COD $
+187                  GNDR_COD $
+188                  E_SUB $
+189                  WT
+190                  WT_COD $
+191                  REPT_DT
+192                  OCCP_COD $
+193                  DEATH_DT
+194                  TO_MFR $
+195                  CONFID $
+196                  REPORTER_COUNTRY $
+197                  VAR24 $
+198      ;
+199      if _ERROR_ then call symputx('_EFIERR_',1);  /* set ERROR detection macro variable */
+200      run;
+
+NOTE: The infile 'C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\DEMO06Q1.TXT' is:
+      Filename=C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\DEMO06Q1.TXT,
+      RECFM=V,LRECL=32767,File Size (bytes)=12394577,
+      Last Modified=07Apr2025:15:32:03,
+      Create Time=07Apr2025:15:38:05
+
+NOTE: 89527 records were read from the infile 
+      'C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\DEMO06Q1.TXT'.
+      The minimum record length was 74.
+      The maximum record length was 229.
+NOTE: The data set WORK.DEMO06Q1 has 89527 observations and 24 variables.
+NOTE: DATA statement used (Total process time):
+      real time           0.07 seconds
+      cpu time            0.06 seconds
+      
+
+89527 rows created in WORK.DEMO06Q1 from 
+C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\DEMO06Q1.TXT.
+  
+  
+  
+NOTE: WORK.DEMO06Q1 data set was successfully created.
+NOTE: The data set WORK.DEMO06Q1 has 89527 observations and 24 variables.
+NOTE: PROCEDURE IMPORT used (Total process time):
+      real time           0.46 seconds
+      cpu time            0.23 seconds
+      
+
+201  
+202  PROC PRINTTO;
+203  RUN;
+

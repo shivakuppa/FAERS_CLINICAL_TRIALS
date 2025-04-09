@@ -1,0 +1,75 @@
+NOTE: PROCEDURE PRINTTO used (Total process time):
+      real time           0.01 seconds
+      cpu time            0.01 seconds
+      
+
+518  
+519  PROC IMPORT OUT= WORK.Reac06Q1
+520              DATAFILE= "C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\REAC06Q1.TXT"
+521              DBMS=DLM REPLACE;
+522       DELIMITER='24'x;
+523       GETNAMES=YES;
+524       DATAROW=2;
+525       GUESSINGROWS=1000;
+526  RUN;
+
+Number of names found is less than number of variables found. 
+Number of names found is less than number of variables found. 
+527   /**********************************************************************
+528   *   PRODUCT:   SAS
+529   *   VERSION:   9.4
+530   *   CREATOR:   External File Interface
+531   *   DATE:      16SEP15
+532   *   DESC:      Generated SAS Datastep Code
+533   *   TEMPLATE SOURCE:  (None Specified.)
+534   ***********************************************************************/
+535      data WORK.REAC06Q1    ;
+536      %let _EFIERR_ = 0; /* set the ERROR detection macro variable */
+537      infile 'C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\REAC06Q1.TXT' delimiter =
+537!  '$' MISSOVER DSD lrecl=32767 firstobs=2 ;
+538         informat ISR best32. ;
+539         informat PT $55. ;
+540         informat VAR3 $1. ;
+541         format ISR best12. ;
+542         format PT $55. ;
+543         format VAR3 $1. ;
+544      input
+545                  ISR
+546                  PT $
+547                  VAR3 $
+548      ;
+549      if _ERROR_ then call symputx('_EFIERR_',1);  /* set ERROR detection macro variable */
+550      run;
+
+NOTE: The infile 'C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\REAC06Q1.TXT' is:
+      Filename=C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\REAC06Q1.TXT,
+      RECFM=V,LRECL=32767,File Size (bytes)=11183437,
+      Last Modified=07Apr2025:15:32:03,
+      Create Time=07Apr2025:15:38:05
+
+NOTE: 409360 records were read from the infile 
+      'C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\REAC06Q1.TXT'.
+      The minimum record length was 12.
+      The maximum record length was 75.
+NOTE: The data set WORK.REAC06Q1 has 409360 observations and 3 variables.
+NOTE: DATA statement used (Total process time):
+      real time           0.07 seconds
+      cpu time            0.07 seconds
+      
+
+409360 rows created in WORK.REAC06Q1 from 
+C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\REAC06Q1.TXT.
+  
+  
+  
+NOTE: WORK.REAC06Q1 data set was successfully created.
+NOTE: The data set WORK.REAC06Q1 has 409360 observations and 3 variables.
+NOTE: PROCEDURE IMPORT used (Total process time):
+      real time           0.15 seconds
+      cpu time            0.14 seconds
+      
+
+551  
+552  PROC PRINTTO;
+553  RUN;
+
