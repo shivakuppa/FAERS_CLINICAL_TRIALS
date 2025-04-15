@@ -3,8 +3,8 @@
 * PROGRAMMER : Shiva Kuppa
 * VALIDATOR: Lajeeth
 * DATE : 4/7/2025
-* PURPOSE : C:\Users\karmo\OneDrive\Desktop\SAS\dev\sales\data\raw\
-* SOURCE: C:\Users\karmo\OneDrive\Desktop\SAS\dev\sales\analysis
+* PURPOSE : C:\dev\sales\data\raw\
+* SOURCE: C:\dev\sales\analysis
 * 
 *
 * MODIFYING HISTORY
@@ -23,7 +23,7 @@ DATE:                   NAME:                       REASON FOR MODIFICATION:
 ***********************************************************************/
 data WORK.SALES02;
     %let _EFIERR_ = 0; /* set the ERROR detection macro variable */
-    infile 'C:\Users\karmo\OneDrive\Desktop\SAS\dev\sales\data\raw\Sales04.csv' delimiter=','
+    infile 'C:\dev\sales\data\raw\Sales04.csv' delimiter=','
         MISSOVER DSD lrecl=32767 firstobs=2;
     informat Order_ID best32.;
     informat Order_Date mmddyy10.;

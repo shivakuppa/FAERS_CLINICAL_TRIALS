@@ -3,8 +3,8 @@
 * PROGRAMMER : Shiva Kuppa
 * VALIDATOR: Lajeeth
 * DATE : 4/7/2025
-* PURPOSE : C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006
-* SOURCE: C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\analysis
+* PURPOSE : C:\dev\faers\data\raw\2006
+* SOURCE: C:\dev\faers\analysis
 * 
 *
 * MODIFYING HISTORY
@@ -13,11 +13,11 @@ DATE:                   NAME:                       REASON FOR MODIFICATION:
 ***************************************************************************************************
 */
 
-PROC PRINTTO LOG = "C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\log\demo06Q1.log" NEW;
+PROC PRINTTO LOG = "C:\dev\faers\log\demo06Q1.log" NEW;
 RUN;
 
 PROC IMPORT OUT= WORK.Demo06Q1 
-            DATAFILE= "C:\Users\karmo\OneDrive\Desktop\SAS\dev\faers\data\raw\2006\DEMO06Q1.TXT" 
+            DATAFILE= "C:\dev\faers\data\raw\2006\DEMO06Q1.TXT" 
             DBMS=DLM REPLACE;
      DELIMITER='24'x; 
      GETNAMES=YES;
